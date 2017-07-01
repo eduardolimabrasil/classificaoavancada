@@ -1,0 +1,14 @@
+PY3_OR_LATER
+_bytes_or_unicode
+pickle
+struct
+types
+_MyHash
+hashlib
+NumpyHasher
+_ConsistentSet
+Pickler
+Hasher
+io
+sys
+hash

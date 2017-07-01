@@ -1,0 +1,17 @@
+np
+urlopen
+makedirs
+BytesIO
+loadmat
+joblib
+fetch_olivetti_faces
+check_random_state
+MODULE_DOCS
+urllib2
+exists
+_pkl_filepath
+Bunch
+DATA_URL
+get_data_home
+TARGET_FILENAME
+urllib

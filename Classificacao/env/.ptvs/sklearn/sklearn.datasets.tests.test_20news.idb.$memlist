@@ -1,0 +1,9 @@
+sp
+test_20news_length_consistency
+test_20news
+test_20news_vectorized
+np
+SkipTest
+assert_true
+assert_equal
+datasets

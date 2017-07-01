@@ -1,0 +1,11 @@
+kernels
+gaussian_process
+__all__
+GaussianProcessRegressor
+GaussianProcessClassifier
+regression_models
+gpr
+tests
+GaussianProcess
+gpc
+correlation_models

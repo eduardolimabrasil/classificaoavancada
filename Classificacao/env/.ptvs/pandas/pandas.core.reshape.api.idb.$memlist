@@ -1,0 +1,10 @@
+ordered_merge
+concat
+merge
+merge_asof
+cut
+merge_ordered
+qcut
+melt
+crosstab
+pivot_table

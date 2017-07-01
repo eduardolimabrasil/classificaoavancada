@@ -1,0 +1,10 @@
+catch_warnings
+Base
+tm
+types
+pandas
+np
+com
+pytest
+test_moved_infer_dtype
+TestTypes

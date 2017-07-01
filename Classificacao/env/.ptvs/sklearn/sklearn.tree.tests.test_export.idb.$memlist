@@ -1,0 +1,17 @@
+finditer
+w
+DecisionTreeClassifier
+assert_in
+test_graphviz_toy
+StringIO
+export_graphviz
+y2
+test_graphviz_errors
+assert_raises
+DecisionTreeRegressor
+y_degraded
+test_friedman_mse_in_graphviz
+X
+GradientBoostingClassifier
+y
+assert_equal

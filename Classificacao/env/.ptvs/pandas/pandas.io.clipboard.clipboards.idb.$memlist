@@ -1,0 +1,14 @@
+PY2
+cb
+init_osx_clipboard
+text_type
+init_klipper_clipboard
+PyperclipException
+init_xsel_clipboard
+init_gtk_clipboard
+subprocess
+init_no_clipboard
+init_xclip_clipboard
+init_qt_clipboard
+sys
+EXCEPT_MSG

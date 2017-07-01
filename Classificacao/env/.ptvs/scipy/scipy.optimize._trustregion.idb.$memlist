@@ -1,0 +1,13 @@
+BaseQuadraticSubproblem
+math
+scipy
+wrap_function
+absolute_import
+_status_message
+np
+division
+__all__
+print_function
+OptimizeResult
+_check_unknown_options
+_minimize_trust_region

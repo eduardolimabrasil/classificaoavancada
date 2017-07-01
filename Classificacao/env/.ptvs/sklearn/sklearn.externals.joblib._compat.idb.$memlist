@@ -1,0 +1,7 @@
+PY3_OR_LATER
+_bytes_or_unicode
+with_metaclass
+PY27
+PY26
+sys
+_basestring

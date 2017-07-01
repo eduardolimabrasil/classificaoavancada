@@ -1,0 +1,6 @@
+setup
+configuration
+warnings
+join
+os
+maybe_cythonize_extensions

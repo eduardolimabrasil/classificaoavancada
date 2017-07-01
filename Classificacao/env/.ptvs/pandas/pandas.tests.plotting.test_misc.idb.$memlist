@@ -1,0 +1,15 @@
+TestDataFramePlots
+Series
+DataFrame
+plotting
+tm
+TestSeriesPlots
+slow
+np
+TestPlotBase
+_ok_for_gaussian_kde
+_check_plot_works
+random
+pytest
+randn
+lmap

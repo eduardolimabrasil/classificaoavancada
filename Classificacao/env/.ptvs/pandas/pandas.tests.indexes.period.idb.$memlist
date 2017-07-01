@@ -1,0 +1,9 @@
+test_indexing
+test_asfreq
+test_formats
+test_construction
+test_tools
+test_partial_slicing
+test_setops
+test_ops
+test_period

@@ -1,0 +1,7 @@
+pd
+timedelta_range
+TimedeltaIndex
+np
+TestTimedeltaIndex
+tm
+Int64Index

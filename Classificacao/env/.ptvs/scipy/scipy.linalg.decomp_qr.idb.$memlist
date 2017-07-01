@@ -1,0 +1,12 @@
+qr_multiply
+safecall
+_datacopied
+absolute_import
+get_blas_funcs
+division
+qr
+print_function
+__all__
+get_lapack_funcs
+rq
+numpy

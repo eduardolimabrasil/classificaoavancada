@@ -1,0 +1,13 @@
+test_indexing
+test_astype
+test_construction
+test_tools
+test_partial_slicing
+test_misc
+test_datetimelike
+test_setops
+test_formats
+test_missing
+test_date_range
+test_ops
+test_datetime

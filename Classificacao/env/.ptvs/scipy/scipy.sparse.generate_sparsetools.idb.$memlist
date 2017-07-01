@@ -1,0 +1,17 @@
+GET_THUNK_CASE_TEMPLATE
+THUNK_TEMPLATE
+CSC_ROUTINES
+METHOD_TEMPLATE
+COMPILATION_UNITS
+write_autogen_blurb
+os
+T_TYPES
+I_TYPES
+optparse
+parse_routine
+OTHER_ROUTINES
+get_thunk_type_set
+newer
+BSR_ROUTINES
+CSR_ROUTINES
+main

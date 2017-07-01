@@ -1,0 +1,9 @@
+tm
+TestUnsupportedFeatures
+parsers
+read_csv
+StringIO
+read_table
+pytest
+ParserError
+TestDeprecatedFeatures

@@ -1,0 +1,15 @@
+ConvergenceWarning
+__builtins__
+__doc__
+__file__
+__name__
+__package__
+__test__
+libsvm_sparse_decision_function
+libsvm_sparse_predict
+libsvm_sparse_predict_proba
+libsvm_sparse_train
+np
+set_verbosity_wrap
+sparse
+warnings

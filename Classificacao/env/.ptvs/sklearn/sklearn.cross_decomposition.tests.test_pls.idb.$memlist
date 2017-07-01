@@ -1,0 +1,15 @@
+CCA
+assert_raise_message
+test_scale_and_stability
+test_univariate_pls_regression
+load_linnerud
+pls_
+np
+test_predict_transform_copy
+assert_true
+assert_array_almost_equal
+assert_array_equal
+test_pls_errors
+test_pls
+assert_equal
+test_PLSSVD

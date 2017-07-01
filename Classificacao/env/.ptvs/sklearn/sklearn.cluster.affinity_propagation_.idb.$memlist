@@ -1,0 +1,10 @@
+check_array
+affinity_propagation
+ClusterMixin
+as_float_array
+np
+BaseEstimator
+euclidean_distances
+AffinityPropagation
+pairwise_distances_argmin
+check_is_fitted

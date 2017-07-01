@@ -1,0 +1,15 @@
+assert_raises
+test_hasher_invalid_input
+test_feature_hasher_pairs
+test_feature_hasher_strings
+unicode_literals
+test_hasher_zeros
+np
+test_hasher_set_params
+FeatureHasher
+assert_true
+assert_array_equal
+test_feature_hasher_dicts
+assert_equal
+test_feature_hasher_pairs_with_string_values
+test_hash_empty_input

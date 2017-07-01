@@ -1,0 +1,16 @@
+test_huber
+test_omp
+test_coordinate_descent
+test_ransac
+test_randomized_l1
+test_base
+test_theil_sen
+test_sparse_coordinate_descent
+test_sgd
+test_sag
+test_least_angle
+test_logistic
+test_passive_aggressive
+test_perceptron
+test_bayes
+test_ridge

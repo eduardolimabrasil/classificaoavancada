@@ -1,0 +1,7 @@
+UnpackException
+OutOfData
+BufferFull
+ExtraData
+PackValueError
+PackException
+UnpackValueError

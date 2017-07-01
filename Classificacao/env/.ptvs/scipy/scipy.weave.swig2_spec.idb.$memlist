@@ -1,0 +1,9 @@
+swigptr2
+swig2_common_code
+absolute_import
+swig2_py_to_c_template
+swig2_converter
+print_function
+swig2_c_to_py_template
+common_base_converter
+sys

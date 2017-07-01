@@ -1,0 +1,19 @@
+€}qUmembersq}q(U_sparse_manhattanq}q(UkindqUfunctionqUvalueq}q	(U	overloadsq
+]q}q(UdocqUúPairwise L1 distances for CSR matrices.
+
+    Usage:
+
+    >>> D = np.zeros(X.shape[0], Y.shape[0])
+    >>> sparse_manhattan(X.data, X.indices, X.indptr,
+    ...                  Y.data, Y.indices, Y.indptr,
+    ...                  X.shape[1], D)
+    Uargsq}q(U
+arg_formatqU*Unameqhu}q(hU**qhUkwargsqu†uahUúPairwise L1 distances for CSR matrices.
+
+    Usage:
+
+    >>> D = np.zeros(X.shape[0], Y.shape[0])
+    >>> sparse_manhattan(X.data, X.indices, X.indptr,
+    ...                  Y.data, Y.indices, Y.indptr,
+    ...                  X.shape[1], D)
+    quuU__builtins__q}q(hUdataqh}qUtypeq]qU__builtin__qUmodule†qasuU__file__q}q(hhh}q h]q!hUstr†q"asuU_chi2_kernel_fastq#}q$(hhh}q%h]q&hUfused_cython_function†q'asuU__package__q(}q)(hhh}q*h]q+h"asuU__test__q,}q-(hhh}q.h]q/hUdict†q0asuUnpq1}q2(hhh}q3h]q4hasuU__name__q5}q6(hhh}q7h]q8h"asuU__doc__q9}q:(hhh}q;h]q<hUNoneType†q=asuus.

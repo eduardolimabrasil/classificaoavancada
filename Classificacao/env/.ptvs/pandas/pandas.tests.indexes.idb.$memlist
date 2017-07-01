@@ -1,0 +1,12 @@
+test_numeric
+test_range
+datetimes
+test_frozen
+period
+common
+test_interval
+test_multi
+datetimelike
+test_base
+timedeltas
+test_category

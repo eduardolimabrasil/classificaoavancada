@@ -1,0 +1,17 @@
+isomap
+_barnes_hut_tsne
+tests
+mds
+LocallyLinearEmbedding
+Isomap
+SpectralEmbedding
+spectral_embedding
+__all__
+MDS
+TSNE
+_utils
+locally_linear_embedding
+spectral_embedding_
+setup
+locally_linear
+t_sne

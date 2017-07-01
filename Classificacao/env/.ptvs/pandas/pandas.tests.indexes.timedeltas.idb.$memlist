@@ -1,0 +1,9 @@
+test_timedelta
+test_astype
+test_construction
+test_tools
+test_indexing
+test_setops
+test_timedelta_range
+test_ops
+test_partial_slicing

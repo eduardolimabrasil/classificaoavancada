@@ -1,0 +1,17 @@
+__doc__
+__file__
+__name__
+__package__
+__version__
+cdet_c
+cdet_r
+clu_c
+ddet_c
+ddet_r
+dlu_c
+sdet_c
+sdet_r
+slu_c
+zdet_c
+zdet_r
+zlu_c

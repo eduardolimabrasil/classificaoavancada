@@ -1,0 +1,16 @@
+np
+C
+check_X_y
+solve_triangular
+cho_solve
+BaseEstimator
+RegressorMixin
+GaussianProcessRegressor
+fmin_l_bfgs_b
+RBF
+clone
+warnings
+check_random_state
+itemgetter
+cholesky
+check_array

@@ -1,0 +1,4 @@
+test_kernels
+test_gpc
+test_gpr
+test_gaussian_process

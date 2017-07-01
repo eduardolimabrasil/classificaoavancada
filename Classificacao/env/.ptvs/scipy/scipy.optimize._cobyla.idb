@@ -1,0 +1,10 @@
+€}q(UdocqU©This module '_cobyla' is auto-generated with f2py (version:2).
+Functions:
+  x,dinfo = minimize(calcfc,m,x,rhobeg,rhoend,dinfo,iprint=1,maxfun=100,calcfc_extra_args=())
+.qUmembersq}q(Uminimizeq}q(UkindqUdataq	Uvalueq
+}qUtypeq]qU__builtin__qUfortran†qasuU__file__q}q(hh	h
+}qh]qhUstr†qasuU__package__q}q(hh	h
+}qh]qhUNoneType†qasuU__name__q}q(hh	h
+}qh]qhasuU__version__q}q(hh	h
+}q h]q!hasuU__doc__q"}q#(hh	h
+}q$h]q%hasuuu.

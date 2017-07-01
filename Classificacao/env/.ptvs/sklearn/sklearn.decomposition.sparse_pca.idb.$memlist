@@ -1,0 +1,11 @@
+check_array
+SparsePCA
+check_random_state
+dict_learning_online
+ridge_regression
+check_is_fitted
+dict_learning
+BaseEstimator
+MiniBatchSparsePCA
+np
+TransformerMixin

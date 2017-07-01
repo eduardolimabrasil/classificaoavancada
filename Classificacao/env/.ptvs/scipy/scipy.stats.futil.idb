@@ -1,0 +1,12 @@
+€}q(UdocqU’This module 'futil' is auto-generated with f2py (version:2).
+Functions:
+  arr = dqsort(arr,overwrite_arr=0)
+  replist,repnum,nlist = dfreps(arr)
+.qUmembersq}q(Udqsortq}q(UkindqUdataq	Uvalueq
+}qUtypeq]qU__builtin__qUfortran†qasuU__file__q}q(hh	h
+}qh]qhUstr†qasuUdfrepsq}q(hh	h
+}qh]qhasuU__package__q}q(hh	h
+}qh]qhUNoneType†qasuU__name__q}q(hh	h
+}q h]q!hasuU__version__q"}q#(hh	h
+}q$h]q%hasuU__doc__q&}q'(hh	h
+}q(h]q)hasuuu.

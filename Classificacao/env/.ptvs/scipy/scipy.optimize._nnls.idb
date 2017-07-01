@@ -1,0 +1,10 @@
+€}q(UdocqU¡This module '_nnls' is auto-generated with f2py (version:2).
+Functions:
+  x,rnorm,mode = nnls(a,m,n,b,w,zz,index_bn,mda=shape(a,0),overwrite_a=0,overwrite_b=0)
+.qUmembersq}q(U__file__q}q(UkindqUdataq	Uvalueq
+}qUtypeq]qU__builtin__qUstr†qasuU__package__q}q(hh	h
+}qh]qhUNoneType†qasuUnnlsq}q(hh	h
+}qh]qhUfortran†qasuU__name__q}q(hh	h
+}qh]qhasuU__version__q}q(hh	h
+}q h]q!hasuU__doc__q"}q#(hh	h
+}q$h]q%hasuuu.

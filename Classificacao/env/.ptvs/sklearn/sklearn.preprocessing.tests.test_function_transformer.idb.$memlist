@@ -1,0 +1,12 @@
+test_kw_arg_reset
+testing
+_make_func
+test_inverse_transform
+np
+test_delegate_to_func
+FunctionTransformer
+test_kw_arg_update
+assert_array_equal
+assert_equal
+test_kw_arg
+test_np_log

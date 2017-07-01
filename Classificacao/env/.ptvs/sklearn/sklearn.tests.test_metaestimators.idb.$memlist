@@ -1,0 +1,17 @@
+np
+RFE
+test_metaestimator_delegation
+make_classification
+BaseEstimator
+GridSearchCV
+BaggingClassifier
+iterkeys
+RandomizedSearchCV
+DELEGATING_METAESTIMATORS
+DelegatorData
+Pipeline
+assert_raises
+RFECV
+assert_false
+assert_true
+functools

@@ -1,0 +1,14 @@
+murmurhash3_32
+assert_true
+u
+test_mmhash3_unicode
+test_mmhash3_int
+test_mmhash3_bytes
+b
+np
+test_no_collision_on_byte_range
+assert_array_almost_equal
+assert_array_equal
+assert_equal
+test_uniform_distribution
+test_mmhash3_int_array

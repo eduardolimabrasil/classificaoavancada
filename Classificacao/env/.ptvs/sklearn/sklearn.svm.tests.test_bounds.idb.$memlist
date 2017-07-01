@@ -1,0 +1,15 @@
+np
+dense_X
+assert_raise_message
+test_l1_min_c
+sp
+LinearSVC
+Y2
+sparse_X
+Y1
+warnings
+l1_min_c
+assert_true
+raises
+LogisticRegression
+check_l1_min_c

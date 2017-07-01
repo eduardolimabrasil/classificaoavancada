@@ -1,0 +1,8 @@
+pd
+TestSparseSeriesMultiIndexing
+TestSparseDataFrameIndexing
+np
+TestMultitype
+TestSparseSeriesIndexing
+tm
+pytest

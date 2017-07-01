@@ -1,0 +1,8 @@
+test_bin8
+unpackb
+test_ext
+test_str8
+ExtType
+test_bin32
+packb
+test_bin16

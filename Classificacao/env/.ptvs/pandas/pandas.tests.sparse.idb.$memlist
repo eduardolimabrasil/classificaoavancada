@@ -1,0 +1,12 @@
+test_indexing
+test_frame
+test_libsparse
+test_series
+test_list
+test_pivot
+common
+test_combine_concat
+test_arithmetics
+test_format
+test_groupby
+test_array

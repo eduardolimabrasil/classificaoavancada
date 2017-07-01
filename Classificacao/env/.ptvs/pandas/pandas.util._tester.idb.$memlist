@@ -1,0 +1,6 @@
+__all__
+test
+pytest
+PKG
+sys
+os

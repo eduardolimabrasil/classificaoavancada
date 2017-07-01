@@ -1,0 +1,29 @@
+Ä}qUmembersq}q(U__builtins__q}q(UkindqUdataqUvalueq}q	Utypeq
+]qU__builtin__qUmoduleÜqasuU__file__q}q(hhh}qh
+]qhUstrÜqasuU__package__q}q(hhh}qh
+]qhasuU__test__q}q(hhh}qh
+]qhUdictÜqasuUnpq}q(hhh}qh
+]qhasuU__name__q }q!(hhh}q"h
+]q#hasuU__doc__q$}q%(hhh}q&h
+]q'hUNoneTypeÜq(asuUgammalnq)}q*(hUfunctionq+h}q,(U	overloadsq-]q.(}q/(Udocq0UnLogarithm of absolute value of gamma function
+
+Defined as::
+
+    ln(abs(gamma(z)))
+
+See Also
+--------
+gammasgnq1Uargsq2}q3Unameq4Uxs}q5(Udefault_valueq6UNoneq7h4UoutuÜu}q8(h0h1h2}q9h4UzsÖueh0Uçgammaln(x[, out])
+
+gammaln(z)
+
+Logarithm of absolute value of gamma function
+
+Defined as::
+
+    ln(abs(gamma(z)))
+
+See Also
+--------
+gammasgnuuUexpected_mutual_informationq:}q;(hh+h}q<(h-]q=}q>(h0U<Calculate the expected mutual information for two labelings.h2}q?(U
+arg_formatq@U*h4h2u}qA(h@U**qBh4UkwargsqCuÜuah0U<Calculate the expected mutual information for two labelings.uuus.

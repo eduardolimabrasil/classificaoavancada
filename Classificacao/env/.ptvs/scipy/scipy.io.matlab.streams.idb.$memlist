@@ -1,0 +1,16 @@
+FileStream
+GenericStream
+ZlibInputStream
+__builtins__
+__doc__
+__file__
+__name__
+__package__
+__pyx_capi__
+__test__
+_read_into
+_read_string
+cStringStream
+make_stream
+sys
+zlib

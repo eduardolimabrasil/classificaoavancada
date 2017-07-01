@@ -1,0 +1,4 @@
+test_pandas
+test_normalize
+test_ujson
+test_json_table_schema

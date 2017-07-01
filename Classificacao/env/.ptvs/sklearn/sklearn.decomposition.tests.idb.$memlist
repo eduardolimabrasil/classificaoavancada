@@ -1,0 +1,10 @@
+test_factor_analysis
+test_dict_learning
+test_fastica
+test_pca
+test_sparse_pca
+test_online_lda
+test_nmf
+test_kernel_pca
+test_incremental_pca
+test_truncated_svd

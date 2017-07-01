@@ -1,0 +1,5 @@
+test_newton_cg
+fmin_ncg
+assert_array_almost_equal
+np
+newton_cg

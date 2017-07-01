@@ -1,0 +1,9 @@
+test_bicluster
+test_mean_shift
+test_affinity_propagation
+test_dbscan
+common
+test_spectral
+test_k_means
+test_birch
+test_hierarchical

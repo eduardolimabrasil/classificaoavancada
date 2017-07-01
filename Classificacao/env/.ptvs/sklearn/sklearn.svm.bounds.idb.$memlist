@@ -1,0 +1,7 @@
+check_array
+LabelBinarizer
+l1_min_c
+safe_sparse_dot
+warn
+np
+check_consistent_length

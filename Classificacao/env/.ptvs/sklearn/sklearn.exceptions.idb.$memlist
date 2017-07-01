@@ -1,0 +1,10 @@
+EfficiencyWarning
+ConvergenceWarning
+ChangedBehaviorWarning
+__all__
+FitFailedWarning
+UndefinedMetricWarning
+NotFittedError
+DataConversionWarning
+NonBLASDotWarning
+DataDimensionalityWarning

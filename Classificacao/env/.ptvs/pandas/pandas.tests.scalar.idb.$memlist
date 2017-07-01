@@ -1,0 +1,6 @@
+test_timedelta
+test_period
+test_nat
+test_timestamp
+test_interval
+test_period_asfreq

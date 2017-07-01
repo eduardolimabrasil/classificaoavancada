@@ -1,0 +1,13 @@
+is_bool_dtype
+is_integer_dtype
+is_datetime64_dtype
+set_default_names
+is_period_dtype
+make_field
+is_string_dtype
+is_timedelta64_dtype
+is_datetime64tz_dtype
+build_table_schema
+is_categorical_dtype
+as_json_table_type
+is_numeric_dtype

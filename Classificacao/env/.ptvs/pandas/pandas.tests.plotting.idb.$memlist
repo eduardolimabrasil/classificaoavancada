@@ -1,0 +1,10 @@
+test_hist_method
+test_frame
+test_converter
+test_misc
+common
+test_boxplot_method
+test_deprecated
+test_series
+test_groupby
+test_datetimelike

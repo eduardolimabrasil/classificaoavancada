@@ -1,0 +1,13 @@
+CategoricalDtype
+pd
+DataFrame
+tm
+ParserWarning
+Categorical
+np
+Index
+Series
+StringIO
+pytest
+DtypeTests
+MultiIndex

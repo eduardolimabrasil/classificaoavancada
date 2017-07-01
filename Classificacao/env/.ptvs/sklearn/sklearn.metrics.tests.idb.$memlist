@@ -1,0 +1,6 @@
+test_classification
+test_score_objects
+test_ranking
+test_common
+test_regression
+test_pairwise

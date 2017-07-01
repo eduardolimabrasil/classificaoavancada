@@ -1,0 +1,7 @@
+test_rfe
+test_variance_threshold
+test_from_model
+test_feature_select
+test_chi2
+test_base
+test_mutual_info

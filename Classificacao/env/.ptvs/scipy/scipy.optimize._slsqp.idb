@@ -1,0 +1,10 @@
+€}q(UdocqU§This module '_slsqp' is auto-generated with f2py (version:2).
+Functions:
+  slsqp(m,meq,x,xl,xu,f,c,g,a,acc,iter,mode,w,jw,la=len(c),n=len(x),l_w=len(w),l_jw=len(jw))
+.qUmembersq}q(U__file__q}q(UkindqUdataq	Uvalueq
+}qUtypeq]qU__builtin__qUstr†qasuU__doc__q}q(hh	h
+}qh]qhasuU__package__q}q(hh	h
+}qh]qhUNoneType†qasuU__name__q}q(hh	h
+}qh]qhasuU__version__q}q(hh	h
+}qh]q hasuUslsqpq!}q"(hh	h
+}q#h]q$hUfortran†q%asuuu.

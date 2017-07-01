@@ -1,0 +1,20 @@
+€}q(UdocqU:
+Wrapper for liblinear
+
+Author: fabian.pedregosa@inria.fr
+qUmembersq}q(Uset_verbosity_wrapq}q(UkindqUfunctionq	Uvalueq
+}q(U	overloadsq]q}q(hU-
+    Control verbosity of libsvm library
+    Uargsq}q(U
+arg_formatqU*Unameqhu}q(hU**qhUkwargsqu†uahU-
+    Control verbosity of libsvm library
+    uuU__builtins__q}q(hUdataqh
+}qUtypeq]qU__builtin__qUmodule†qasuU__file__q}q(hhh
+}q h]q!hUstr†q"asuU__package__q#}q$(hhh
+}q%h]q&h"asuU__test__q'}q((hhh
+}q)h]q*hUdict†q+asuUnpq,}q-(hhh
+}q.h]q/hasuU__name__q0}q1(hhh
+}q2h]q3h"asuU__doc__q4}q5(hhh
+}q6h]q7h"asuU
+train_wrapq8}q9(hh	h
+}q:hNsuuu.

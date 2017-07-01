@@ -1,0 +1,11 @@
+_np_version_under1p9
+pd
+is_integer
+TestSeriesQuantile
+Timestamp
+np
+Index
+Series
+tm
+pytest
+TestData

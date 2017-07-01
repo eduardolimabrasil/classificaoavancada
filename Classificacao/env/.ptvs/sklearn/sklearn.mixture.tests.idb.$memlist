@@ -1,0 +1,4 @@
+test_gaussian_mixture
+test_dpgmm
+test_gmm
+test_bayesian_mixture
