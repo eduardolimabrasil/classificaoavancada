@@ -1,9 +1,0 @@
-Series
-pd
-TestDatetimeIndex
-tm
-np
-Index
-DatetimeIndex
-date_range
-DatetimeLike

@@ -1,7 +1,0 @@
-assert_raises
-np
-test_smacof
-assert_array_almost_equal
-mds
-test_smacof_error
-test_MDS

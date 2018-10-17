@@ -1,9 +1,0 @@
-test_voting_classifier
-test_partial_dependence
-test_iforest
-test_forest
-test_bagging
-test_gradient_boosting_loss_functions
-test_weight_boosting
-test_gradient_boosting
-test_base

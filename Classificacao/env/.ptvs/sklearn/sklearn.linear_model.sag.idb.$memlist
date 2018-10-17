@@ -1,9 +1,0 @@
-check_array
-row_norms
-get_auto_step_size
-warnings
-sag
-ConvergenceWarning
-sag_solver
-np
-make_dataset

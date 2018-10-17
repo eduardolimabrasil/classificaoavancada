@@ -1,3 +1,0 @@
-test_raise_build_error
-assert_raises
-raise_build_error

@@ -1,7 +1,0 @@
-procrustes
-absolute_import
-np
-division
-print_function
-orthogonal_procrustes
-__all__

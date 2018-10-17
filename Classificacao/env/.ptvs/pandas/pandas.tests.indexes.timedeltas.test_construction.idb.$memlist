@@ -1,9 +1,0 @@
-pd
-to_timedelta
-timedelta_range
-TimedeltaIndex
-np
-TestTimedeltaIndex
-tm
-pytest
-timedelta

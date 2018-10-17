@@ -1,16 +1,0 @@
-€}q(UdocqUÙThis module 'statlib' is auto-generated with f2py (version:2).
-Functions:
-  a,w,pw,ifault = swilk(x,a,init=0,n1=n)
-  astart,a1,ifault = wprob(test,other)
-  astart,a1,ifault = gscale(test,other)
-  ifault = prho(n,is)
-.qUmembersq}q(Uswilkq}q(UkindqUdataq	Uvalueq
-}qUtypeq]qU__builtin__qUfortran†qasuUprhoq}q(hh	h
-}qh]qhasuU__file__q}q(hh	h
-}qh]qhUstr†qasuUgscaleq}q(hh	h
-}qh]qhasuU__package__q}q(hh	h
-}qh]q hUNoneType†q!asuU__name__q"}q#(hh	h
-}q$h]q%hasuU__version__q&}q'(hh	h
-}q(h]q)hasuU__doc__q*}q+(hh	h
-}q,h]q-hasuUwprobq.}q/(hh	h
-}q0h]q1hasuuu.

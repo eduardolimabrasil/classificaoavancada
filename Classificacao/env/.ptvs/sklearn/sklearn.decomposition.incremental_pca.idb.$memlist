@@ -1,8 +1,0 @@
-check_array
-IncrementalPCA
-gen_batches
-np
-_incremental_mean_and_var
-_BasePCA
-svd_flip
-linalg

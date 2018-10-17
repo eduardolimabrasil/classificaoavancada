@@ -1,5 +1,0 @@
-absolute_import
-print_function
-numpy
-numpy_complex_scalar_converter
-c_spec

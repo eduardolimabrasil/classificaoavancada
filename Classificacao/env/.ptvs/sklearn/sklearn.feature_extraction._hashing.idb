@@ -1,27 +1,0 @@
-€}qUmembersq}q(U__builtins__q}q(UkindqUdataqUvalueq}q	Utypeq
-]qU__builtin__qUmodule†qasuU__file__q}q(hhh}qh
-]qhUstr†qasuU	transformq}q(hUfunctionqh}q(U	overloadsq]q}q(Uret_typeq]qhUint†qaUdocqU¯Guts of FeatureHasher.transform.
-
-    Returns
-    -------
-    n_samples : integer
-    indices, indptr, values : lists
-        For constructing a scipy.sparse.csr_matrix.
-
-    Uargsq}q(U
-arg_formatq U*Unameq!hu}q"(h U**q#h!Ukwargsq$u†uahU¯Guts of FeatureHasher.transform.
-
-    Returns
-    -------
-    n_samples : integer
-    indices, indptr, values : lists
-        For constructing a scipy.sparse.csr_matrix.
-
-    uuUstring_typesq%}q&(hhh}q'h
-]q(hUtuple†q)asuU__test__q*}q+(hhh}q,h
-]q-hUdict†q.asuUnpq/}q0(hhh}q1h
-]q2hasuU__name__q3}q4(hhh}q5h
-]q6hasuUarrayq7}q8(hhh}q9h
-]q:hasuU__package__q;}q<(hhh}q=h
-]q>hasuU__doc__q?}q@(hhh}qAh
-]qBhUNoneType†qCasuus.

@@ -1,12 +1,0 @@
-€}q(UdocqUùThis module 'minpack2' is auto-generated with f2py (version:2).
-Functions:
-  stp,f,g,task = dcsrch(stp,f,g,ftol,gtol,xtol,task,stpmin,stpmax,isave,dsave)
-  stx,fx,dx,sty,fy,dy,stp,brackt = dcstep(stx,fx,dx,sty,fy,dy,stp,fp,dp,brackt,stpmin,stpmax)
-.qUmembersq}q(Udcstepq}q(UkindqUdataq	Uvalueq
-}qUtypeq]qU__builtin__qUfortran†qasuU__file__q}q(hh	h
-}qh]qhUstr†qasuU__package__q}q(hh	h
-}qh]qhUNoneType†qasuU__name__q}q(hh	h
-}qh]qhasuU__version__q}q(hh	h
-}q h]q!hasuU__doc__q"}q#(hh	h
-}q$h]q%hasuUdcsrchq&}q'(hh	h
-}q(h]q)hasuuu.

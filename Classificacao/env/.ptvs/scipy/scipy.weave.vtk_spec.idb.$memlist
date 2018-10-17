@@ -1,6 +1,0 @@
-absolute_import
-print_function
-vtk_converter
-vtk_c_to_py_template
-vtk_py_to_c_template
-common_base_converter

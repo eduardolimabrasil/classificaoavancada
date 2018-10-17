@@ -1,22 +1,0 @@
-€}q(UdocqUA
-Small collection of auxiliary functions that operate on arrays
-
-qUmembersq}q(U__builtins__q}q(UkindqUdataq	Uvalueq
-}qUtypeq]qU__builtin__qUmodule†qasuU__file__q}q(hh	h
-}qh]qhUstr†qasuU__package__q}q(hh	h
-}qh]qhasuUmin_posq}q(hUfunctionqh
-}q(U	overloadsq]q}q(hU{
-   Find the minimum value of an array over positive values
-
-   Returns a huge value if none of the values are positive
-   Uargsq }q!(U
-arg_formatq"U*Unameq#h u}q$(h"U**q%h#Ukwargsq&u†uahU{
-   Find the minimum value of an array over positive values
-
-   Returns a huge value if none of the values are positive
-   uuU__test__q'}q((hh	h
-}q)h]q*hUdict†q+asuU__doc__q,}q-(hh	h
-}q.h]q/hasuUnpq0}q1(hh	h
-}q2h]q3hasuU__name__q4}q5(hh	h
-}q6h]q7hasuUcholesky_deleteq8}q9(hhh
-}q:hNsuuu.

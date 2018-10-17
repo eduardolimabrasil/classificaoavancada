@@ -1,9 +1,0 @@
-pd
-timedelta_range
-Timedelta
-np
-Series
-tm
-pytest
-assert_series_equal
-TestSlicing

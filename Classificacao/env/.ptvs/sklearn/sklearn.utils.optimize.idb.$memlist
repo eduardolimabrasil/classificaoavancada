@@ -1,9 +1,0 @@
-_line_search_wolfe12
-_LineSearchError
-line_search_wolfe1
-warnings
-line_search_wolfe2
-_cg
-ConvergenceWarning
-newton_cg
-np

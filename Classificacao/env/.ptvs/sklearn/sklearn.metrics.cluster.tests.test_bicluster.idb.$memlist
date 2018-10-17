@@ -1,8 +1,0 @@
-_jaccard
-test_consensus_score
-test_consensus_score_issue2445
-assert_almost_equal
-np
-consensus_score
-assert_equal
-test_jaccard
